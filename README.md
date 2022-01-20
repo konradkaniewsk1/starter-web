@@ -4,6 +4,8 @@ This is a simple website project for showing how github works.
 
 ## Introduction
 
+introduction here
+
 ## Purpose
 
 ## Deployment

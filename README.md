@@ -7,10 +7,13 @@ This is a simple website project for showing how github works.
 introduction here
 
 ## Purpose
-
+ another desc 
+ 
 ## Deployment
 
-##How To Contribute
+costam costam
 
+##How To Contribute
+ hehehehe
 
 Sample website with plenty of files for demos

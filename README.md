@@ -21,5 +21,4 @@ fork repository and then issue pull request
 
 ## Copyright
 
-2021 GITTTT
-Sample website with plenty of files for demos
+2021 The big git

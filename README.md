@@ -16,4 +16,7 @@ costam costam
 ##How To Contribute
  hehehehe
 
+## Copyright
+
+2021 GITTTT
 Sample website with plenty of files for demos

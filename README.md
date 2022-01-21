@@ -14,7 +14,7 @@ introduction here
 costam costam
 
 ##How To Contribute
- hehehehe
+fork repository and then issue pull request
 
 ## Copyright
 
